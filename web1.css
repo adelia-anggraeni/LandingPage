@@ -1,0 +1,80 @@
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+#main{
+    width: 1200px;
+    margin: 0;
+}
+#wrapper{
+    margin: 70px;
+    background-color: white;
+}
+#content{
+    background-color: blue;
+    width: 100%px;
+    margin: 30px;
+    overflow: hidden;
+}
+#content-atas{
+    width: 100%px;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color:  rgb(242, 249, 251);
+    overflow: hidden;
+}
+#content-atas img{
+    width: 260px;
+    height: 60px;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+#artikel{
+    width: 100%px;
+    height: 450px;
+    margin-right: 10px;
+    margin-left: 10px;
+    overflow: hidden;
+    background-color: rgb(242, 249, 251);
+}
+#content-kanan{
+    width: 80%px;
+    height: 450px;
+    overflow: hidden;
+    float: right;
+}
+#content-kanan img{
+    width: 570px;
+    height: 400px;
+    margin: 10px;
+}
+#content-kiri{
+    margin: 20px;
+}
+#content-kiri h1{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+#content-kiri h4{
+    text-align: center;
+    color: black;
+}
+#content-kiri form, p{
+    text-align: left;
+    color: black;
+}
+#content-kiri a{
+    color: white;
+    background-color: blue;
+    padding: 5px;
+    text-decoration: none;
+}
+#footer p{
+    text-align: center;
+    color: white;
+}
+
+
